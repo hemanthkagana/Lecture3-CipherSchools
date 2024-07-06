@@ -11,5 +11,5 @@
       * boolean  - 1 bit   - Stores true or false values
       * char     - 2 bytes - Stores a single character/letter or ASCII values
 
-* from bigger data type to smaller data type is called explicit type casting or down casting or narrowing.
-* from smaller data type to bigger data type is called type casting or widening or up casting.
+* converting from bigger data type to smaller data type is called explicit type casting or down casting or narrowing.
+* converting from smaller data type to bigger data type is called type casting or widening or up casting.
